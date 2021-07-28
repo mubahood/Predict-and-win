@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Soccer Predict To Real Money</string>
+    <string name="NEXT">NEXT</string>
+    <string name="GOT_IT">GOT IT</string>
+    <string name="navigation_drawer_open">navigation_drawer_open</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+</resources>

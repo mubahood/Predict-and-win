@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <domain-config cleartextTrafficPermitted="true">
+<!--        <domain includeSubdomains="true">ugnews24.info</domain>
+        <domain includeSubdomains="true">app.ugnews24.info</domain>
+        <domain includeSubdomains="true">app.ugnews24.info/api</domain>-->
+        <domain includeSubdomains="true">10.0.2.2</domain>
+    </domain-config>
+</network-security-config>

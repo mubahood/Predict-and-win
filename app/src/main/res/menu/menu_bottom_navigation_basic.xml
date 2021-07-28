@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/icon_predict"
+        android:title="Predict" />
+
+    <item
+        android:id="@+id/navigation_spin"
+        android:icon="@drawable/icon_spin"
+        android:title="Spin" />
+
+    <item
+        android:id="@+id/navigation_winners"
+        android:icon="@drawable/icon_winners"
+        android:title="Winners" />
+
+</menu>
